@@ -7,11 +7,11 @@
 	<packaging>pom</packaging>
 
 	<name>Kinan City</name>
-	<url>https://github.com/drallieiv/KinanCity</url>
+	<url>https://github.com/nicpeos/KinanCity</url>
 
     <scm>
-		<url>https://github.com/drallieiv/KinanCity</url>
-		<developerConnection>scm:git:git@github.com:drallieiv/KinanCity.git</developerConnection>
+		<url>https://github.com/nicpeos/KinanCity</url>
+		<developerConnection>scm:git:git@github.com:nicpeos/KinanCity.git</developerConnection>
 	  <tag>v2.1.8</tag>
   	</scm>
 
@@ -40,7 +40,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/drallieiv/KinanCity</url>
+			<url>https://maven.pkg.github.com/nicpeos/KinanCity</url>
 		</repository>
 	</distributionManagement>
 
